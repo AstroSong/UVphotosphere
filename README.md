@@ -1,7 +1,7 @@
 # UVphotosphere
 Here we present the tables in our paper for simple usage.\\
 
-table1_nuv.csv: GALEX/NUV vs. Teff\\
+table1_nuv.csv: GALEX/NUV vs. Teff\\\\
 table1_fuv.csv: GALEX/FUV vs. Teff\\
 table1_CSSTnuv.csv: CSST/NUV vs. Teff\\
 
