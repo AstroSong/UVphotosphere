@@ -19,4 +19,8 @@ table2_fuv.csv: GALEX/FUV vs. BP-RP
 table2_CSSTnuv.csv: CSST/NUV vs. BP-RP
 
 You can estimate stellar photospheric UV emission as:
-m_{\rm UV} = \sum_{i=0}^{i=10} a_i (\frac{T_{\rm eff}}{1000\ K})^{10-i}.
+<img width="208" alt="Screen Shot 2025-03-26 at 9 37 58 AM" src="https://github.com/user-attachments/assets/3161a8ee-68c9-41f0-90e8-fe0aba68c88a" />
+or
+<img width="208" alt="Screen Shot 2025-03-26 at 9 38 05 AM" src="https://github.com/user-attachments/assets/db3f0891-00f5-442d-acb8-7dadaca990c7" />
+
+
